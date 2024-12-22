@@ -2,14 +2,14 @@
 //  Configs.swift
 //  RoomScan3D
 //
-//  Created by Vuong Doan on 16/10/24.
+//  Created by Doan Tran Hieu My on 16/10/24.
 //
 
 import Foundation
 import UIKit
 
 class Configs {
-    static var emailContact = "khuyentth95@gmail.com"
+    static var emailContact = "doantranhieumy@gmail.com"
     static let adMobAdId: String = "ca-app-pub-5643829825649081/3574532200"
     static let urlAppID: String = "https://apps.apple.com/app/id6450154548"
     static let urlTermsOfUse: String = "https://d3q5sq5jmatyie.cloudfront.net/ringtone/terms-of-use.html"

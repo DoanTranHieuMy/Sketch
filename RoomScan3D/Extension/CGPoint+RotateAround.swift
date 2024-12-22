@@ -2,7 +2,7 @@
 //  CGPoint+RotateAround.swift
 //  RoomCaptureApp
 //
-//  Created by Vuong Doan on 04/12/2023.
+//  Created by Doan Tran Hieu My on 04/12/2023.
 //
 
 import CoreGraphics

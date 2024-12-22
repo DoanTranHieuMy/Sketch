@@ -2,7 +2,7 @@
 //  SettingViewController.swift
 //  RoomScan3D
 //
-//  Created by Vuong Doan on 16/10/24.
+//  Created by Doan Tran Hieu My on 16/10/24.
 //
 
 import Foundation
